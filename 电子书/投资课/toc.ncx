@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh-CN">
+  <head>
+    <meta content="729e05a7-8c0a-43ab-9ea1-b72e58d93695" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>投资学</text>
+  </docTitle>
+  <navMap>
+  <navPoint id="navpoint-1" playOrder="1">
+    <navLabel>
+      <text>投资学</text>
+    </navLabel>
+    <content src="text/titlepage.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-source" playOrder="2">
+    <navLabel>
+      <text>说明</text>
+    </navLabel>
+    <content src="text/source.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-2" playOrder="3">
+    <navLabel>
+      <text>目录</text>
+    </navLabel>
+    <content src="text/toc.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-3" playOrder="4">
+    <navLabel>
+      <text>第01节 概述价值发现和美元问题</text>
+    </navLabel>
+    <content src="text/chapter_001.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-4" playOrder="4">
+    <navLabel>
+      <text>第02节 价值论的哲学基础</text>
+    </navLabel>
+    <content src="text/chapter_002.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-5" playOrder="5">
+    <navLabel>
+      <text>第03节 价值论的哲学基础</text>
+    </navLabel>
+    <content src="text/chapter_003.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-6" playOrder="6">
+    <navLabel>
+      <text>第04节 价值尺度与美元指数、黄金</text>
+    </navLabel>
+    <content src="text/chapter_004.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-7" playOrder="7">
+    <navLabel>
+      <text>第05节 宏观经济形势、我们为什么成功</text>
+    </navLabel>
+    <content src="text/chapter_005.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-8" playOrder="8">
+    <navLabel>
+      <text>第06节 缘起论、资本流向、房地产及其趋势</text>
+    </navLabel>
+    <content src="text/chapter_006.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-9" playOrder="9">
+    <navLabel>
+      <text>第07节 租息比扰动、经济分析导论</text>
+    </navLabel>
+    <content src="text/chapter_007.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-10" playOrder="10">
+    <navLabel>
+      <text>第08节 宏观形势、黄金投资、读书与研究</text>
+    </navLabel>
+    <content src="text/chapter_008.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-11" playOrder="11">
+    <navLabel>
+      <text>第09节 _凯恩斯</text>
+    </navLabel>
+    <content src="text/chapter_009.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-12" playOrder="12">
+    <navLabel>
+      <text>第10节 宏观形势、投资基本原则与区块链</text>
+    </navLabel>
+    <content src="text/chapter_010.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-13" playOrder="13">
+    <navLabel>
+      <text>第11节 时政与市场形势、广义税赋论</text>
+    </navLabel>
+    <content src="text/chapter_011.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-14" playOrder="14">
+    <navLabel>
+      <text>第12节 主权货币的估值逻辑、一析斧MACD的运用</text>
+    </navLabel>
+    <content src="text/chapter_012.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-15" playOrder="15">
+    <navLabel>
+      <text>第13节 2019 年市场回顾及未来展望、家庭教育</text>
+    </navLabel>
+    <content src="text/chapter_013.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-16" playOrder="16">
+    <navLabel>
+      <text>第14节 总结与投资问题分析</text>
+    </navLabel>
+    <content src="text/chapter_014.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-17" playOrder="17">
+    <navLabel>
+      <text>第15节 2019 回顾与 2020 展望、再谈"止定静安虑得"</text>
+    </navLabel>
+    <content src="text/chapter_015.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-18" playOrder="18">
+    <navLabel>
+      <text>第16节 金融的本质、LPR 与中东伊朗问题</text>
+    </navLabel>
+    <content src="text/chapter_016.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-19" playOrder="19">
+    <navLabel>
+      <text>第17节 金融学2、货币与通货，中美第一阶段协定，俄政府改组</text>
+    </navLabel>
+    <content src="text/chapter_017.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-20" playOrder="20">
+    <navLabel>
+      <text>第18节 金融学3、新货币主义</text>
+    </navLabel>
+    <content src="text/chapter_018.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-21" playOrder="21">
+    <navLabel>
+      <text>第19节 金融学4、货币与信用—货币哲学</text>
+    </navLabel>
+    <content src="text/chapter_019.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-22" playOrder="22">
+    <navLabel>
+      <text>第20节 欧盟问题，美元，黄金，股市</text>
+    </navLabel>
+    <content src="text/chapter_020.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-23" playOrder="23">
+    <navLabel>
+      <text>第21节 资产运作的四种形态（四矩阵）和美国大选桑德斯</text>
+    </navLabel>
+    <content src="text/chapter_021.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-24" playOrder="24">
+    <navLabel>
+      <text>第22节 两化与新基建的选择</text>
+    </navLabel>
+    <content src="text/chapter_022.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-25" playOrder="25">
+    <navLabel>
+      <text>第23节 危机之下的价值判断和投资管理</text>
+    </navLabel>
+    <content src="text/chapter_023.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-26" playOrder="26">
+    <navLabel>
+      <text>第24节 关于这场世纪性"危机"的定性及其未来发展走势</text>
+    </navLabel>
+    <content src="text/chapter_024.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-27" playOrder="27">
+    <navLabel>
+      <text>第25节 金融之负债第一讲</text>
+    </navLabel>
+    <content src="text/chapter_025.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-28" playOrder="28">
+    <navLabel>
+      <text>第26节 宏观负债、微观负债、黄金趋势测算</text>
+    </navLabel>
+    <content src="text/chapter_026.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-29" playOrder="29">
+    <navLabel>
+      <text>第27节 金融学之负债三、弗里德曼和《美国货币史》、黄金</text>
+    </navLabel>
+    <content src="text/chapter_027.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-30" playOrder="30">
+    <navLabel>
+      <text>第28节 数字货币，人民币的三种可能性</text>
+    </navLabel>
+    <content src="text/chapter_028.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-31" playOrder="31">
+    <navLabel>
+      <text>第29节 资本的流向和积累率、黄金的购买方式及风险</text>
+    </navLabel>
+    <content src="text/chapter_029.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-32" playOrder="32">
+    <navLabel>
+      <text>第30节 港往事，财政赤字，美元策略和黄金，中美地缘政治图景</text>
+    </navLabel>
+    <content src="text/chapter_030.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-33" playOrder="33">
+    <navLabel>
+      <text>第31节 非农数据意味着什么，地摊儿经济，收益</text>
+    </navLabel>
+    <content src="text/chapter_031.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-34" playOrder="34">
+    <navLabel>
+      <text>第32节 中印冲突，半岛突变，讲课：收益—收益率</text>
+    </navLabel>
+    <content src="text/chapter_032.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-35" playOrder="35">
+    <navLabel>
+      <text>第33节 美国、港版国安立法、收益的计算</text>
+    </navLabel>
+    <content src="text/chapter_033.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-36" playOrder="36">
+    <navLabel>
+      <text>第34节 较收益</text>
+    </navLabel>
+    <content src="text/chapter_034.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-37" playOrder="37">
+    <navLabel>
+      <text>第35节 基金开篇，美国现状与人民币重置</text>
+    </navLabel>
+    <content src="text/chapter_035.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-38" playOrder="38">
+    <navLabel>
+      <text>第36节 基金2-EFT，鲍威尔新规的本质及影响，中国资本市场扩容</text>
+    </navLabel>
+    <content src="text/chapter_036.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-39" playOrder="39">
+    <navLabel>
+      <text>第37节 巴菲特的骚操作和南亚风云</text>
+    </navLabel>
+    <content src="text/chapter_037.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-40" playOrder="40">
+    <navLabel>
+      <text>第38节 A股、基金的投资方法，对冲基金</text>
+    </navLabel>
+    <content src="text/chapter_038.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-41" playOrder="41">
+    <navLabel>
+      <text>第39节 达利欧的报告、恒大事件、美元和黄金的分析</text>
+    </navLabel>
+    <content src="text/chapter_039.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-42" playOrder="42">
+    <navLabel>
+      <text>第40节 中印美冲突 基金要点</text>
+    </navLabel>
+    <content src="text/chapter_040.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-43" playOrder="43">
+    <navLabel>
+      <text>第41节 "后特朗普时代"和个人负债的问题</text>
+    </navLabel>
+    <content src="text/chapter_041.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-44" playOrder="44">
+    <navLabel>
+      <text>第42节 补漏："孑孓踯躅，砥砺前行"，五中全会和蚂蚁金服</text>
+    </navLabel>
+    <content src="text/chapter_042.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-45" playOrder="45">
+    <navLabel>
+      <text>第43节 美国大选，蚂蚁事件，债券2：可转债和垃圾债</text>
+    </navLabel>
+    <content src="text/chapter_043.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-46" playOrder="46">
+    <navLabel>
+      <text>第44节 国内的债务危机 美国股市 心学：至诚</text>
+    </navLabel>
+    <content src="text/chapter_044.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-47" playOrder="47">
+    <navLabel>
+      <text>第45节 债券3：可转债， 再谈"金"，投资的第二重意义</text>
+    </navLabel>
+    <content src="text/chapter_045.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-48" playOrder="48">
+    <navLabel>
+      <text>第46节 债券4：高息债,健身,拜登内阁,2021-24沙盘推演1</text>
+    </navLabel>
+    <content src="text/chapter_046.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-49" playOrder="49">
+    <navLabel>
+      <text>第47节 再谈"年终总结", 默克尔的忧虑,"实质负利率"</text>
+    </navLabel>
+    <content src="text/chapter_047.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-50" playOrder="50">
+    <navLabel>
+      <text>第48节 中央经济会议，资产形态的变异，美元</text>
+    </navLabel>
+    <content src="text/chapter_048.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-51" playOrder="51">
+    <navLabel>
+      <text>第49节 中欧投资协定，投资中的"三观"，建设自己的平台</text>
+    </navLabel>
+    <content src="text/chapter_049.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-52" playOrder="52">
+    <navLabel>
+      <text>第50节 投资中时间的意义，聊几句大宗</text>
+    </navLabel>
+    <content src="text/chapter_050.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-53" playOrder="53">
+    <navLabel>
+      <text>第51节 美国散户革命，俄罗斯乱象，耶伦的信，投资的空间意义</text>
+    </navLabel>
+    <content src="text/chapter_051.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-54" playOrder="54">
+    <navLabel>
+      <text>第52节 快手上市、深交所主板和中小板合并、美国资本市场的变化与近期国际局势、A股</text>
+    </navLabel>
+    <content src="text/chapter_052.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-55" playOrder="55">
+    <navLabel>
+      <text>第53节 节、生产力工具</text>
+    </navLabel>
+    <content src="text/chapter_053.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-56" playOrder="56">
+    <navLabel>
+      <text>第54节 恕、比特币与黄金</text>
+    </navLabel>
+    <content src="text/chapter_054.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-57" playOrder="57">
+    <navLabel>
+      <text>第55节 投资管理、解读美国经济、美元和黄金</text>
+    </navLabel>
+    <content src="text/chapter_055.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-58" playOrder="58">
+    <navLabel>
+      <text>第56节 "云"和"碳"、当下的经济与市场</text>
+    </navLabel>
+    <content src="text/chapter_056.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-59" playOrder="59">
+    <navLabel>
+      <text>第57节 投资中心态的调整、战略选择和战术调整、保"6"的内外部因素</text>
+    </navLabel>
+    <content src="text/chapter_057.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-60" playOrder="60">
+    <navLabel>
+      <text>第58节 阳明心学小结、阿拉斯加会议</text>
+    </navLabel>
+    <content src="text/chapter_058.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-61" playOrder="61">
+    <navLabel>
+      <text>第59节 投资课小结：避免投资失误的原则、当下形势分析</text>
+    </navLabel>
+    <content src="text/chapter_059.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-62" playOrder="62">
+    <navLabel>
+      <text>第60节 -【投资学】投资学补充（1）态势感知</text>
+    </navLabel>
+    <content src="text/chapter_060.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-63" playOrder="63">
+    <navLabel>
+      <text>第61节 -【投资学】投资学补充（2）蛛丝马迹（谈谈心学的六自）</text>
+    </navLabel>
+    <content src="text/chapter_061.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-64" playOrder="64">
+    <navLabel>
+      <text>第62节 -【投资学】投资学补充（3）起于暗淡（聊几句当下的状况）</text>
+    </navLabel>
+    <content src="text/chapter_062.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-65" playOrder="65">
+    <navLabel>
+      <text>第63节 -【投资学】投资学补充（4）起于暗淡</text>
+    </navLabel>
+    <content src="text/chapter_063.xhtml"/>
+  </navPoint>
+  <navPoint id="navpoint-66" playOrder="66">
+    <navLabel>
+      <text>第64节 投资课"补"：投资三忌</text>
+    </navLabel>
+    <content src="text/chapter_064.xhtml"/>
+  </navPoint>
+  </navMap>
+</ncx>
